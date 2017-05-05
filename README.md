@@ -1,3 +1,3 @@
 # judiciary
 
-I am studying the Korean judiciary connection.
+I am studying the Korean judiciary network.
